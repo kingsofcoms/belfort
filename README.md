@@ -1,2 +1,2 @@
-# binarysignalsapp-robot
-Binary Option Automated Trading Robot, powered by BinarySignalsApp.
+# Belfort
+Introducing Belfort, a binary options automated trading robot.
