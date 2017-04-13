@@ -1,2 +1,4 @@
-# Belfort
-Introducing Belfort, a binary options automated trading robot.
+# Belfort 
+Belfort is a Binary Options trading robot platform, written in Python.
+
+
