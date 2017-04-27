@@ -4,7 +4,7 @@ Belfort
 
 Introduction
 -
-Belfort is a *binary options* trading robot that uses *binarysignalsapp* to predict price movements at confidence intervals, and execute options. It was programmed to work with the [IQ Option binary options trading platform](https://www.iqoption.com).
+Belfort is a *binary options* trading robot that uses *binarysignalsapp* to predict price movements at confidence intervals, and execute options. It was programmed to work with [The Binary.com API](http://developers.binary.com/api).
 
 License
 -
