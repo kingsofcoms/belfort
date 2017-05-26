@@ -1,12 +1,12 @@
 from distutils.core import setup
 
 setup(
-    name='application',
+    name='belfort',
     version='0.0.0',
     packages=[''],
-    url='https://example.com/',
+    url='https://github.com/frxncisjoseph/belfort',
     license='Apache License 2.0',
-    author='John Doe',
-    author_email='example@domain.com',
-    description='Lorem ipsum dolor sit amet, consectetur adipiscing elit. '
+    author='Francis Joseph',
+    author_email='francisgjoseph@outlook.com',
+    description='Belfort is a binary options trading robot.'
 )

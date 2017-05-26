@@ -1,4 +1,4 @@
-from application.app import App
+from belfort.app import App
 
 
 def main():

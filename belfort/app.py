@@ -1,4 +1,4 @@
-from application.core.items.item_manager import ItemManager
+from belfort.core.items.item_manager import ItemManager
 
 
 class App(object):
